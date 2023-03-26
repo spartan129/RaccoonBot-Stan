@@ -1,5 +1,5 @@
 # RaccoonBot-Stan
-This is a 95% AI made python discord bot that can search google for images, gifs, or memes of raccons. This can be used and easily replaced with any similar kind of bot. All code and documentation are a combination of GPT4 and Chat GPT(3.5)
+This is a 95% AI made python discord bot that can search google for images, gifs, or memes of raccons. This can be used and easily replaced with any similar kind of bot ( Find and replace pretty much ). All code and documentation are a combination of GPT4 and Chat GPT(3.5)
 
 # Raccoon Bot README
 
